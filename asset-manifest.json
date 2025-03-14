@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hbd-princess/static/css/main.bec86f95.css",
-    "main.js": "/hbd-princess/static/js/main.9a167d3b.js",
+    "main.css": "/hbd-princess/static/css/main.c129b0c8.css",
+    "main.js": "/hbd-princess/static/js/main.29ed054f.js",
     "static/js/453.830350d2.chunk.js": "/hbd-princess/static/js/453.830350d2.chunk.js",
     "static/media/golden-hour-8-bit_bgmusic.mp3": "/hbd-princess/static/media/golden-hour-8-bit_bgmusic.d3238205e3303ee5df2c.mp3",
     "static/media/album2.jpg": "/hbd-princess/static/media/album2.492dd6a4ed97c2f8dcf9.jpg",
@@ -9,14 +9,15 @@
     "static/media/album3.jpg": "/hbd-princess/static/media/album3.d796a68b4e0d41bc7a45.jpg",
     "static/media/album1.jpg": "/hbd-princess/static/media/album1.5bd1375445beee0b37ae.jpg",
     "static/media/album4.jpg": "/hbd-princess/static/media/album4.52a7588b37a9c3ec177b.jpg",
+    "static/media/button-click.wav": "/hbd-princess/static/media/button-click.ae2de8e7e136703f3626.wav",
     "static/media/kenney-background.png": "/hbd-princess/static/media/kenney-background.374f0a50a9ed7bffcdc8.png",
     "index.html": "/hbd-princess/index.html",
-    "main.bec86f95.css.map": "/hbd-princess/static/css/main.bec86f95.css.map",
-    "main.9a167d3b.js.map": "/hbd-princess/static/js/main.9a167d3b.js.map",
+    "main.c129b0c8.css.map": "/hbd-princess/static/css/main.c129b0c8.css.map",
+    "main.29ed054f.js.map": "/hbd-princess/static/js/main.29ed054f.js.map",
     "453.830350d2.chunk.js.map": "/hbd-princess/static/js/453.830350d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bec86f95.css",
-    "static/js/main.9a167d3b.js"
+    "static/css/main.c129b0c8.css",
+    "static/js/main.29ed054f.js"
   ]
 }
